@@ -1,0 +1,6 @@
+produto;classificao_produto;id_produto;uf;regiao;ano;mes;dsc_nivel_comercializacao;valor_produto_kg
+00-18-18                 ;NÃO INFORMADO       ;10224;MT        ;CENTRO-OESTE   ;2025;11;PREÇO PAGO PELO PRODUTOR                 ;2,32
+CACAU EM AMENDOA         ;TIPO 1             ;123;BA        ;NORDESTE       ;2025;9;PREÇO RECEBIDO PELO PRODUTOR             ;28,40
+CACAU EM AMENDOA         ;TIPO 1             ;123;BA        ;NORDESTE       ;2025;10;PREÇO RECEBIDO PELO PRODUTOR             ;25,10
+CACAU EM AMENDOA         ;TIPO 1             ;123;PA        ;NORTE          ;2025;10;PREÇO RECEBIDO PELO PRODUTOR             ;22,00
+CACAU EM AMENDOA         ;TIPO 1             ;123;BA        ;NORDESTE       ;2025;10;PREÇO RECEBIDO PELO PRODUTOR             ;25,30

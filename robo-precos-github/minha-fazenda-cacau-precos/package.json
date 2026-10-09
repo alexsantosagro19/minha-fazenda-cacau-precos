@@ -1,0 +1,7 @@
+{
+  "name": "minha-fazenda-cacau-precos",
+  "private": true,
+  "type": "module",
+  "scripts": { "coletar": "node coletar.mjs", "testar": "node teste/testar.mjs" },
+  "engines": { "node": ">=20" }
+}
