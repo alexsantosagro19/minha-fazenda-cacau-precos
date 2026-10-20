@@ -1,9 +1,111 @@
 {
  "versao": 1,
- "atualizadoEm": null,
- "atual": null,
- "diario": [],
- "mensal": [],
- "fontes": {},
- "status": {}
+ "atualizadoEm": "2026-10-20T12:24:43.494Z",
+ "atual": {
+  "data": "2026-10-19",
+  "ba_convencional": 273,
+  "var_convencional": 0,
+  "ba_certificado": 358,
+  "var_certificado": 0,
+  "ny": {
+   "contrato": "Dezembro/26",
+   "preco": 5687,
+   "variacao": 42
+  }
+ },
+ "diario": [
+  {
+   "data": "2026-10-19",
+   "conv": 273,
+   "cert": 358,
+   "ny": 5687
+  }
+ ],
+ "mensal": [
+  {
+   "ano": 2025,
+   "mes": 10,
+   "arroba": 326.25,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2025,
+   "mes": 11,
+   "arroba": 322.95,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2025,
+   "mes": 12,
+   "arroba": 359.85,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 1,
+   "arroba": 378.15,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 2,
+   "arroba": 211.95,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 3,
+   "arroba": 167.55,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 4,
+   "arroba": 189.15,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 5,
+   "arroba": 209.85,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 6,
+   "arroba": 245.25,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 7,
+   "arroba": 318,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 8,
+   "arroba": 343.2,
+   "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 9,
+   "arroba": 256.5,
+   "fonte": "conab"
+  }
+ ],
+ "fontes": {
+  "diario": "Mercado do Cacau, publicado pelo Notícias Agrícolas",
+  "ny": "Bolsa de Nova York (ICE), publicado pelo Notícias Agrícolas",
+  "dolar": "AwesomeAPI (dólar comercial)",
+  "mensal": "Conab — preço recebido pelo produtor, Bahia (R$/kg × 15)"
+ },
+ "status": {
+  "diario": "ok",
+  "diarioEm": "2026-10-20T12:24:41.336Z",
+  "dolar": "erro: https://economia.awesomeapi.com.br/json/last/USD-BRL respondeu 429",
+  "conab": "ok",
+  "conabEm": "2026-10-20T12:24:43.494Z"
+ }
 }
