@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "atualizadoEm": "2026-10-28T18:33:59.826Z",
+ "atualizadoEm": "2026-10-28T23:04:47.745Z",
  "atual": {
   "data": "2026-10-28",
   "ba_convencional": 294,
@@ -139,7 +139,7 @@
  },
  "status": {
   "diario": "ok",
-  "diarioEm": "2026-10-28T18:33:58.379Z",
+  "diarioEm": "2026-10-28T23:04:46.278Z",
   "dolar": "erro: https://economia.awesomeapi.com.br/json/last/USD-BRL respondeu 429",
   "conab": "erro: fetch failed",
   "conabEm": "2026-10-20T12:24:43.494Z"
