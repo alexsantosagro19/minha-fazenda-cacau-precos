@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "atualizadoEm": "2026-10-29T23:12:48.639Z",
+ "atualizadoEm": "2026-10-30T18:19:17.158Z",
  "atual": {
   "data": "2026-10-29",
   "ba_convencional": 286,
@@ -9,8 +9,8 @@
   "var_certificado": -2.14,
   "ny": {
    "contrato": "Dezembro/26",
-   "preco": 5456,
-   "variacao": null
+   "preco": 5453,
+   "variacao": -3
   }
  },
  "diario": [
@@ -60,7 +60,7 @@
    "data": "2026-10-29",
    "conv": 286,
    "cert": 366,
-   "ny": 5456
+   "ny": 5453
   }
  ],
  "mensal": [
@@ -145,7 +145,7 @@
  },
  "status": {
   "diario": "ok",
-  "diarioEm": "2026-10-29T23:12:47.185Z",
+  "diarioEm": "2026-10-30T18:19:16.139Z",
   "dolar": "erro: https://economia.awesomeapi.com.br/json/last/USD-BRL respondeu 429",
   "conab": "erro: fetch failed",
   "conabEm": "2026-10-20T12:24:43.494Z"
