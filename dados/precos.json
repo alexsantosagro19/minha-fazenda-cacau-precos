@@ -1,16 +1,16 @@
 {
  "versao": 1,
- "atualizadoEm": "2026-11-03T23:56:01.119Z",
+ "atualizadoEm": "2026-11-04T20:08:34.358Z",
  "atual": {
-  "data": "2026-11-03",
-  "ba_convencional": 284,
-  "var_convencional": -0.35,
-  "ba_certificado": 365,
-  "var_certificado": 0,
+  "data": "2026-11-04",
+  "ba_convencional": 288,
+  "var_convencional": 1.41,
+  "ba_certificado": 370,
+  "var_certificado": 1.37,
   "ny": {
    "contrato": "Dezembro/26",
-   "preco": 5414,
-   "variacao": -21
+   "preco": 5456,
+   "variacao": 42
   }
  },
  "diario": [
@@ -73,6 +73,12 @@
    "conv": 284,
    "cert": 365,
    "ny": 5414
+  },
+  {
+   "data": "2026-11-04",
+   "conv": 288,
+   "cert": 370,
+   "ny": 5456
   }
  ],
  "mensal": [
@@ -157,7 +163,7 @@
  },
  "status": {
   "diario": "ok",
-  "diarioEm": "2026-11-03T23:55:59.629Z",
+  "diarioEm": "2026-11-04T20:08:33.032Z",
   "dolar": "erro: https://economia.awesomeapi.com.br/json/last/USD-BRL respondeu 429",
   "conab": "erro: fetch failed",
   "conabEm": "2026-10-20T12:24:43.494Z"
