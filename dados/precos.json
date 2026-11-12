@@ -192,7 +192,7 @@
   "mensal": "Conab — preço recebido pelo produtor, Bahia (R$/kg × 15)"
  },
  "status": {
-  "diario": "ok",
+  "diario": "erro: https://www.noticiasagricolas.com.br/cotacoes/cacau respondeu 403",
   "diarioEm": "2026-11-12T01:26:06.359Z",
   "dolar": "erro: https://economia.awesomeapi.com.br/json/last/USD-BRL respondeu 429",
   "conab": "erro: fetch failed",
