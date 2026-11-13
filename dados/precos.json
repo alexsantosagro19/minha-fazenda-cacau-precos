@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "atualizadoEm": "2026-11-12T01:26:07.337Z",
+ "atualizadoEm": "2026-11-13T20:08:39.163Z",
  "atual": {
   "data": "2026-11-11",
   "ba_convencional": 246,
@@ -114,12 +114,6 @@
  "mensal": [
   {
    "ano": 2025,
-   "mes": 10,
-   "arroba": 326.25,
-   "fonte": "conab"
-  },
-  {
-   "ano": 2025,
    "mes": 11,
    "arroba": 322.95,
    "fonte": "conab"
@@ -183,6 +177,12 @@
    "mes": 9,
    "arroba": 256.5,
    "fonte": "conab"
+  },
+  {
+   "ano": 2026,
+   "mes": 10,
+   "arroba": 235.65,
+   "fonte": "conab"
   }
  ],
  "fontes": {
@@ -195,7 +195,7 @@
   "diario": "erro: https://www.noticiasagricolas.com.br/cotacoes/cacau respondeu 403",
   "diarioEm": "2026-11-12T01:26:06.359Z",
   "dolar": "erro: https://economia.awesomeapi.com.br/json/last/USD-BRL respondeu 429",
-  "conab": "erro: fetch failed",
-  "conabEm": "2026-10-20T12:24:43.494Z"
+  "conab": "ok",
+  "conabEm": "2026-11-13T20:08:39.163Z"
  }
 }
